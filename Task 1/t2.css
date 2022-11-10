@@ -27,7 +27,7 @@
         .left
         {
             border-style: groove;
-            width: 46%;
+            width: 41%;
             height: 654px;
             margin-top: 14px;
             background-color: rgb(232, 206, 210);
@@ -36,50 +36,35 @@
         .right
         {
             border-style: groove;
-            width: 46%;
+            width: 53%;
             height: 654px;
             margin-top: -659px;
             background-color: rgb(232, 206, 210);
-            margin-left: 792px;
+            margin-left: 699px;
         }
-        .between
-        {
-            margin-top: -62px;
-        }
+       
         .left textarea
         {
             border-style: groove;
-            width: 91%;
+            width: 87%;
             height: 590px;
             margin-top: 23px;
             background-color: white;
             margin-left: 30px;
             font-size: 24px;
             color: blue;
+            text-align: center;
         }
-        .between textarea
-        {
-            border-style: groove;
-            width: 2%;
-            height: 590px;
-            margin-top: -572px;
-            background-color: white;
-            margin-left: 829px;
-            line-height: 24px;
-            font-size: 24px;
-            color: blue;
-}
+        
 
         .right textarea
         {
             border-style: groove;
-            width: 86%;
+            width: 91%;
             height: 590px;
             margin-top: 23px;
             background-color: white;
-            margin-left: 71px;
+            margin-left: 31px;
             font-size: 24px;
-            color: blue;
-            line-height: 24px;
-            text-align: center;
+            line-height: 34px;
         }
